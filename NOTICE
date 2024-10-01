@@ -4,6 +4,60 @@ All Rights Reserved.
 Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
+ATRIBUTIONS:
+
+--------------------
+gunicorn
+https://github.com/benoitc/gunicorn
+License: MIT
+https://opensource.org/licenses/MIT
+--------------------
+flask-sqlalchemy
+https://github.com/pallets/flask-sqlalchemy
+License: BSD-2-Clause
+https://opensource.org/licenses/BSD-2-Clause
+--------------------
+sqlalchemy
+https://github.com/sqlalchemy/sqlalchemy
+License: MIT
+https://opensource.org/licenses/MIT
+--------------------
+flask
+https://github.com/pallets/flask
+License: BSD-2-Clause
+https://opensource.org/licenses/BSD-2-Clause
+--------------------
+werkzeug
+https://github.com/pallets/werkzeug
+License: BSD-2-Clause
+https://opensource.org/licenses/BSD-2-Clause
+--------------------
+requests
+https://github.com/psf/requests
+License: Apache 2.0
+http://www.apache.org/licenses/
+--------------------
+flask-wtf
+https://github.com/wtfpl/flask-wtf
+License: BSD-2-Clause AND BSD-3-Clause
+https://opensource.org/licenses/BSD-2-Clause
+--------------------
+flask-chartjs
+https://github.com/charliewilco/flask-chartjs
+License: MIT
+https://opensource.org/licenses/MIT
+--------------------
+email-validator
+https://github.com/jetruby/email-validator
+License: Unlicense
+https://unlicense.org/
+--------------------
+psycopg2-binary
+https://github.com/psycopg/psycopg2
+License: MIT
+https://opensource.org/licenses/MIT
+
+
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
 If so, such third party code may be subject to other license terms than as set 
