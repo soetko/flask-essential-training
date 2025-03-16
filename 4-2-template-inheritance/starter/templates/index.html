@@ -1,9 +1,17 @@
 <!doctype html>
 <html>
+
 <head>
     <title>{{ title }}</title>
 </head>
+
 <body>
     <h1>Hello, {{ user.username }}!</h1>
+    <ul>
+        {% for item in items %}
+        <l>{{ item }}</l>
+        {% endfor %}
+    </ul>
 </body>
+
 </html>
